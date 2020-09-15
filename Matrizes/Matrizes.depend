@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1585681437 source:c:\users\mathv\onedrive\documentos\maua\______computação______\c\matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1585683235 source:c:\users\mathv\onedrive\documentos\maua\______computação______\c\matrizes\filtropassabaixo.c
+	<stdio.h>
+	<stdlib.h>
+
